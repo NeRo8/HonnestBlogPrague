@@ -1,0 +1,109 @@
+[
+  {
+    "id": 0,
+    "name": "Xchange Grossmann",
+    "coordinate": {"latitude": 50.0790274, "longitude": 14.4283744}
+  },
+  {
+    "id": 1,
+    "name": "Směnárna Samiko s.r.o.",
+
+    "coordinate": {"latitude": 50.0791686, "longitude": 14.4252469}
+  },
+  {
+    "id": 2,
+    "name": "Praha Exchange",
+    "coordinate": {"latitude": 50.0830468, "longitude": 14.4272918}
+  },
+  {
+    "id": 3,
+    "name": "Jindřišská Exchange",
+    "coordinate": {"latitude": 50.0843532, "longitude": 14.4287362}
+  },
+  {
+    "id": 4,
+    "name": "Směnárna Praha",
+    "coordinate": {"latitude": 50.0854189, "longitude": 14.4312481}
+  },
+  {
+    "id": 5,
+    "name": "Change office on the corner",
+    "coordinate": {"latitude": 50.0862966, "longitude": 14.4348735}
+  },
+  {
+    "id": 6,
+    "name": "Eurochange s.r.o.",
+    "coordinate": {"latitude": 50.0870566, "longitude": 14.435084}
+  },
+  {
+    "id": 7,
+    "name": "Alfa Prague - change",
+    "coordinate": {"latitude": 50.0893067, "longitude": 14.4285446}
+  },
+  {
+    "id": 8,
+    "name": "City exchange Praha (in a passage wayú)",
+    "coordinate": {"latitude": 50.087157, "longitude": 14.4258822}
+  },
+  {
+    "id": 9,
+    "name": "ProvaznickáExchange",
+    "coordinate": {"latitude": 50.0845716, "longitude": 14.4230771}
+  },
+  {
+    "id": 10,
+    "name": "Casa de câmbio",
+    "coordinate": {"latitude": 50.0847418, "longitude": 14.4223445}
+  },
+  {
+    "id": 11,
+    "name": "Huspak Change",
+    "coordinate": {"latitude": 50.0831475, "longitude": 14.421495}
+  },
+  {
+    "id": 12,
+    "name": "Foreign Exchange",
+    "coordinate": {"latitude": 50.0873274, "longitude": 14.4224216}
+  },
+  {
+    "id": 13,
+    "name": "Exchange",
+    "coordinate": {"latitude": 50.0861287, "longitude": 14.4199432}
+  },
+  {
+    "id": 14,
+    "name": "Exchange",
+    "coordinate": {"latitude": 50.0861287, "longitude": 14.4199432}
+  },
+  {
+    "id": 15,
+    "name": "Change - Husova 18",
+    "coordinate": {"latitude": 50.0861916, "longitude": 14.418071}
+  },
+
+  {
+    "id": 16,
+    "name": "Exchange in a Clementin Hotel",
+    "coordinate": {"latitude": 50.0862014, "longitude": 14.4172524}
+  },
+  {
+    "id": 17,
+    "name": "Exchange places in Golden Eagle hotel",
+    "coordinate": {"latitude": 50.08611, "longitude": 14.4171576}
+  },
+  {
+    "id": 18,
+    "name": "Exchange.cz",
+    "coordinate": {"latitude": 50.0880465, "longitude": 14.4188367}
+  },
+  {
+    "id": 19,
+    "name": "Exchange8",
+    "coordinate": {"latitude": 50.0883607, "longitude": 14.4178216}
+  },
+  {
+    "id": 20,
+    "name": "EXCHANGE / SMĚNÁRNA Štefánikova",
+    "coordinate": {"latitude": 50.0746293, "longitude": 14.4035957}
+  }
+]

@@ -1,5 +1,6 @@
+import data from '../data/cashExchange.json';
 const initialState = {
-  layoutCash: [{id: 0, name: 'One'}],
+  layoutCash: data,
 };
 
 const layoutsReducer = (state = initialState, action) => {
